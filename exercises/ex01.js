@@ -1,6 +1,6 @@
 let money = 0;
 
-$("daButton").click(print("cheese"))
+$("daButton").click(whatDaButtonDo)
 
 
 function whatDaButtonDo(){
